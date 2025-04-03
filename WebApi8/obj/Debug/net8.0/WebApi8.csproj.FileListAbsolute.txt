@@ -138,3 +138,4 @@ C:\Projetos\ProjetosEstudos\WebApi8\WebApi8\obj\Debug\net8.0\refint\WebApi8.dll
 C:\Projetos\ProjetosEstudos\WebApi8\WebApi8\obj\Debug\net8.0\WebApi8.pdb
 C:\Projetos\ProjetosEstudos\WebApi8\WebApi8\obj\Debug\net8.0\WebApi8.genruntimeconfig.cache
 C:\Projetos\ProjetosEstudos\WebApi8\WebApi8\obj\Debug\net8.0\ref\WebApi8.dll
+C:\Projetos\ProjetosEstudos\WebApi8\WebApi8\obj\Debug\net8.0\WebApi8.sourcelink.json

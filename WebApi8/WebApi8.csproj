@@ -7,6 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Services\NovaPasta1\**" />
+    <Compile Remove="Services\NovaPasta2\**" />
+    <Compile Remove="Services\NovaPasta\**" />
+    <Content Remove="Services\NovaPasta1\**" />
+    <Content Remove="Services\NovaPasta2\**" />
+    <Content Remove="Services\NovaPasta\**" />
+    <EmbeddedResource Remove="Services\NovaPasta1\**" />
+    <EmbeddedResource Remove="Services\NovaPasta2\**" />
+    <EmbeddedResource Remove="Services\NovaPasta\**" />
+    <None Remove="Services\NovaPasta1\**" />
+    <None Remove="Services\NovaPasta2\**" />
+    <None Remove="Services\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.3">
       <PrivateAssets>all</PrivateAssets>
